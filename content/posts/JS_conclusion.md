@@ -3,7 +3,7 @@ title: JS_conclusion
 date: 2020-01-05T18:28:58+08:00
 lastmod: 2020-01-05T18:28:58+08:00
 author: FFreshman
-cover: /img/cover.jpg
+cover: /img/jss.png
 categories: ["JavaScript"]
 tags: [ "JavaScript"]
 # showcase: true
