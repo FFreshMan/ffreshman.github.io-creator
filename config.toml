@@ -2,9 +2,22 @@ baseURL = "https://ffreshman.github.io/"
 languageCode = "zh-hans"
 title = "小咸鱼的博客"
 theme = "dream"
-backgroundImage = "/img/cover.png"
-github = "FFreshman"
-disqusShortname = "..."
-avatar = "/img/cover.png"
-author = "FFreshman"
-motto = "兴趣是最好的老师！"
+
+# disqusShortname = ""
+[params]
+    avatar = "/img/22.png"
+    author = "FFreshman"
+    motto = "兴趣是最好的老师！"
+    backgroundImage = "/img/cover.png"
+    siteStartYear = 2019
+    github = "FFreshman"
+    email = "1366157248@qq.com"
+
+    # dark mode
+    darkLinkColor = "darkseagreen"
+    dark404Button = true
+
+    
+#这是html是否保留部分
+[markup.goldmark.renderer]
+unsafe= true
